@@ -13,7 +13,7 @@ body {
 .header {
 	background: #615238;
 	text-align: center;
-	margin: 8px;
+	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
@@ -31,7 +31,7 @@ body {
 }
 .content {
 	background: #E0C9A2;
-	margin: 0px;
+	margin: 8px;
 	float: left;
 	width: 100%;
 	text-align: left;
