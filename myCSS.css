@@ -36,6 +36,13 @@ body {
 	width: 100%;
 	text-align: left;
 }
+.image {
+	background: #E0C9A2;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
 .footer {
 	background: #777777;
 	margin: 0px;
